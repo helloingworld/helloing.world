@@ -1,0 +1,17 @@
+{
+  "name": "helloing.world",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "npx eleventy --config=_eleventy/config.js --serve --watch --quiet",
+    "build": "npx eleventy --config=_eleventy/config.js",
+    "clean": "rm -r _site"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@11ty/eleventy": "^0.11.0"
+  }
+}
