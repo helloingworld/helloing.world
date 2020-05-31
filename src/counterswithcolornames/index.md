@@ -1,5 +1,5 @@
 ---
-title: Counters With Color Names
+title: Counters With Color Names 🧮
 ---
 
 **Counters With Color Names** is an easy to use tally counter app for Android. It gives you a different counter for each of the unambiguous color terms in English: White, Black, Red, Green, Yellow, Blue, Brown, Purple, Pink, Orange, and Grey. This means you can count people, sheep, kisses, or smiles, and nobody will know what you are counting!
@@ -18,6 +18,4 @@ I'm learning Flutter, and this is my first Hello World Flutter app.
 
 ## Open Source
 
-Counters With Color Names is free and open source, without ads or Internet permissions. I look forward to your feedback or contributions:
-
-[https://github.com/helloingworld/CountersWithColorNames](https://github.com/helloingworld/CountersWithColorNames)
+Counters With Color Names is free and open source, without ads or Internet permissions. I look forward to your feedback or contributions on its [GitHub Repository](https://github.com/helloingworld/CountersWithColorNames).

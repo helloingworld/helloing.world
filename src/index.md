@@ -1,6 +1,7 @@
 ---
+title: Hello World Apps
 ---
 
-## [Counters With Color Names](/counterswithcolornames/)
+<h2><a href="/counterswithcolornames/" class="title-link">Counters With Color Names 🧮</a></h2>
 
-Easy counting. Multiple color counters. An open source, Hello World Flutter app.
+My first Hello World Flutter app: An easy to use tally counter app for Android, with multiple color counters.
